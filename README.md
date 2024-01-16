@@ -3,358 +3,184 @@
 ## Overview
 This repository serves as a personal space for refreshing fundamental web development skills through tutorials on W3Schools. The goal is to cover HTML, CSS, and JavaScript in a structured manner, using a personal code editor and version control for better tracking and familiarity.
 
-## HTML Roadmap
+## Monthly Breakdown
 
-### HTML Tutorial
-- HTML HOME
-- HTML Introduction
-- HTML Basic
-- HTML Elements
-- HTML Attributes
-- HTML Headings
-- HTML Paragraphs
-- HTML Styles
-- HTML Formatting
-- HTML Quotations
-- HTML Comments
-- HTML Colors
-- HTML CSS
-- HTML Links
-- HTML Images
-- HTML Favicon
-- HTML Page Title
-- HTML Tables
-- HTML Lists
-- HTML Block & Inline
-- HTML Div
-- HTML Classes
-- HTML Id
-- HTML Iframes
-- HTML JavaScript
-- HTML File Paths
-- HTML Head
-- HTML Layout
-- HTML Responsive
-- HTML Computercode
-- HTML Semantics
-- HTML Style Guide
-- HTML Entities
-- HTML Symbols
-- HTML Emojis
-- HTML Charsets
-- HTML URL Encode
-- HTML vs. XHTML
+### **Month 1: HTML Roadmap**
 
-### HTML Forms
-- HTML Forms
-- HTML Form Attributes
-- HTML Form Elements
-- HTML Input Types
-- HTML Input Attributes
-- HTML Input Form Attributes
+#### Week 1:
+- [ ] **Days 1-2:** HTML Tutorial (Introduction to Basic Elements)
+- [ ] **Days 3-4:** HTML Elements, Attributes, Headings, Paragraphs
+- [ ] **Day 5:** Styles, Formatting, Quotations, Comments
 
-### HTML Graphics
-- HTML Canvas
-- HTML SVG
+#### Week 2:
+- [ ] **Days 6-8:** Colors, CSS, Links
+- [ ] **Days 9-10:** Images, Favicon, Page Title
+- [ ] **Days 11-12:** Tables, Lists, Block & Inline
 
-### HTML Media
-- HTML Media
-- HTML Video
-- HTML Audio
-- HTML Plug-ins
+#### Week 3:
+- [ ] **Days 13-15:** Div, Classes, Id, Iframes
+- [ ] **Days 16-18:** JavaScript, File Paths, Head
+- [ ] **Day 19:** Layout, Responsive, Computer Code
 
-### HTML APIs
-- HTML Geolocation
-- HTML Drag/Drop
-- HTML Web Storage
-- HTML Web Workers
-- HTML SSE
+#### Week 4:
+- [ ] **Days 20-22:** Semantics, Style Guide, Entities, Symbols
+- [ ] **Days 23-24:** Emojis, Charsets, URL Encode
+- [ ] **Days 25-27:** vs. XHTML, Forms, Form Attributes, Form Elements
 
-## CSS Roadmap
-- CSS HOME
-- CSS Introduction
-- CSS Syntax
-- CSS Selectors
-- CSS How To
-- CSS Comments
-- CSS Colors
-- CSS Backgrounds
-- CSS Borders
-- CSS Margins
-- CSS Padding
-- CSS Height/Width
-- CSS Box Model
-- CSS Outline
-- CSS Text
-- CSS Fonts
-- CSS Icons
-- CSS Links
-- CSS Lists
-- CSS Tables
-- CSS Display
-- CSS Max-width
-- CSS Position
-- CSS Z-index
-- CSS Overflow
-- CSS Float
-- CSS Inline-block
-- CSS Align
-- CSS Combinators
-- CSS Pseudo-class
-- CSS Pseudo-element
-- CSS Opacity
-- CSS Navigation Bar
-- CSS Dropdowns
-- CSS Image Gallery
-- CSS Image Sprites
-- CSS Attr Selectors
-- CSS Forms
-- CSS Counters
-- CSS Website Layout
-- CSS Units
-- CSS Specificity
-- CSS !important
-- CSS Math Functions
+#### Week 5:
+- [ ] **Days 28-30:** Graphics (Canvas, SVG), Media (Video, Audio)
 
-### CSS Advanced
-- CSS Rounded Corners
-- CSS Border Images
-- CSS Backgrounds
-- CSS Colors
-- CSS Color Keywords
-- CSS Gradients
-- CSS Shadows
-- CSS Text Effects
-- CSS Web Fonts
-- CSS 2D Transforms
-- CSS 3D Transforms
-- CSS Transitions
-- CSS Animations
-- CSS Tooltips
-- CSS Style Images
-- CSS Image Reflection
-- CSS object-fit
-- CSS object-position
-- CSS Masking
-- CSS Buttons
-- CSS Pagination
-- CSS Multiple Columns
-- CSS User Interface
-- CSS Variables
-- CSS Box Sizing
-- CSS Media Queries
-- CSS MQ Examples
-- CSS Flexbox
+### **Month 2: CSS Roadmap**
 
-### CSS Responsive
-- RWD Intro
-- RWD Viewport
-- RWD Grid View
-- RWD Media Queries
-- RWD Images
-- RWD Videos
-- RWD Frameworks
-- RWD Templates
+#### Week 1:
+- [ ] **Days 1-2:** CSS Tutorial (Introduction, Syntax, Selectors)
+- [ ] **Days 3-4:** How To, Comments, Colors
+- [ ] **Day 5:** Backgrounds, Borders
 
-### CSS Grid
-- Grid Intro
-- Grid Container
-- Grid Item
+#### Week 2:
+- [ ] **Days 6-8:** Margins, Padding, Height/Width
+- [ ] **Days 9-10:** Box Model, Outline, Text
+- [ ] **Days 11-13:** Fonts, Icons, Links
 
-### CSS SASS
-- SASS Tutorial
+#### Week 3:
+- [ ] **Days 14-16:** Lists, Tables, Display
+- [ ] **Days 17-19:** Max-width, Position, Z-index, Overflow
+- [ ] **Day 20:** Float, Inline-block, Align, Combinators
 
-## JavaScript Roadmap
-- JS HOME
-- JS Introduction
-- JS Where To
-- JS Output
-- JS Statements
-- JS Syntax
-- JS Comments
-- JS Variables
-- JS Let
-- JS Const
-- JS Operators
-- JS Arithmetic
-- JS Assignment
-- JS Data Types
-- JS Functions
-- JS Objects
-- JS Events
-- JS Strings
-- JS String Methods
-- JS String Search
-- JS String Templates
-- JS Numbers
-- JS BigInt
-- JS Number Methods
-- JS Number Properties
-- JS Arrays
-- JS Array Methods
-- JS Array Search
-- JS Array Sort
-- JS Array Iteration
-- JS Array Const
-- JS Dates
-- JS Date Formats
-- JS Date Get Methods
-- JS Date Set Methods
-- JS Math
-- JS Random
-- JS Booleans
-- JS Comparisons
-- JS If Else
-- JS Switch
-- JS Loop For
-- JS Loop For In
-- JS Loop For Of
-- JS Loop While
-- JS Break
-- JS Iterables
-- JS Sets
-- JS Maps
-- JS Typeof
-- JS Type Conversion
-- JS Bitwise
-- JS RegExp
-- JS Precedence
-- JS Errors
-- JS Scope
-- JS Hoisting
-- JS Strict Mode
-- JS this Keyword
-- JS Arrow Function
-- JS Classes
-- JS Modules
-- JS JSON
-- JS Debugging
-- JS Style Guide
-- JS Best Practices
-- JS Mistakes
-- JS Performance
-- JS Reserved Words
+#### Week 4:
+- [ ] **Days 21-23:** Pseudo-class, Pseudo-element, Opacity
+- [ ] **Days 24-26:** Navigation Bar, Dropdowns, Image Gallery
+- [ ] **Days 27-30:** Image Sprites, Attr Selectors, Forms
 
-## JS Versions
-- JS Versions
-- JS 2009 (ES5)
-- JS 2015 (ES6)
-- JS 2016
-- JS 2017
-- JS 2018
-- JS 2019
-- JS 2020
-- JS 2021
-- JS 2022
-- JS 2023
-- JS IE / Edge
-- JS History
+### **Month 3: CSS Advanced, Responsive, Grid, SASS**
 
-## JS Objects
-- Object Definitions
-- Object Properties
-- Object Methods
-- Object Display
-- Object Accessors
-- Object Constructors
-- Object Prototypes
-- Object Iterables
-- Object Sets
-- Object Maps
-- Object Reference
+#### Week 1:
+- [ ] **Days 1-3:** Rounded Corners, Border Images, Backgrounds
+- [ ] **Days 4-6:** Colors, Color Keywords, Gradients, Shadows
+- [ ] **Day 7:** Text Effects, Web Fonts
 
-## JS Functions
-- Function Definitions
-- Function Parameters
-- Function Invocation
-- Function Call
-- Function Apply
-- Function Bind
-- Function Closures
+#### Week 2:
+- [ ] **Days 8-10:** 2D Transforms, 3D Transforms, Transitions
+- [ ] **Days 11-13:** Animations, Tooltips, Style Images
+- [ ] **Day 14:** Image Reflection, object-fit, object-position
 
-## JS Classes
-- Class Intro
-- Class Inheritance
-- Class Static
+#### Week 3:
+- [ ] **Days 15-17:** Masking, Buttons, Pagination
+- [ ] **Days 18-20:** Multiple Columns, User Interface
+- [ ] **Days 21-22:** Variables, Box Sizing
 
-## JS Async
-- JS Callbacks
-- JS Asynchronous
-- JS Promises
-- JS Async/Await
+#### Week 4:
+- [ ] **Days 23-25:** Media Queries, MQ Examples, Flexbox
+- [ ] **Days 26-27:** Responsive Web Design (Intro, Viewport, Grid View)
+- [ ] **Days 28-30:** Media Queries, Images, Videos, Frameworks, Templates
 
-## JS HTML DOM
-- DOM Intro
-- DOM Methods
-- DOM Document
-- DOM Elements
-- DOM HTML
-- DOM Forms
-- DOM CSS
-- DOM Animations
-- DOM Events
-- DOM Event Listener
-- DOM Navigation
-- DOM Nodes
-- DOM Collections
-- DOM Node Lists
+### **Month 4: JavaScript Roadmap**
 
-## JS Browser BOM
-- JS Window
-- JS Screen
-- JS Location
-- JS History
-- JS Navigator
-- JS Popup Alert
-- JS Timing
-- JS Cookies
+#### Week 1:
+- [ ] **Days 1-3:** JS Tutorial (Introduction, Where To, Output)
+- [ ] **Days 4-6:** Statements, Syntax, Comments
+- [ ] **Day 7:** Variables, Let, Const
 
-## JS Web APIs
-- Web API Intro
-- Web Forms API
-- Web History API
-- Web Storage API
-- Web Worker API
-- Web Fetch API
-- Web Geolocation API
+#### Week 2:
+- [ ] **Days 8-10:** Operators, Arithmetic, Assignment
+- [ ] **Days 11-13:** Data Types, Functions, Objects
+- [ ] **Days 14-15:** Events, Strings
 
-## JS AJAX
-- AJAX Intro
-- AJAX XMLHttp
-- AJAX Request
-- AJAX Response
-- AJAX XML File
-- AJAX PHP
-- AJAX ASP
-- AJAX Database
-- AJAX Applications
-- AJAX Examples
+#### Week 3:
+- [ ] **Days 16-18:** String Methods, String Search
+- [ ] **Days 19-21:** String Templates, Numbers, BigInt
+- [ ] **Day 22:** Number Methods, Number Properties
 
-## JS JSON
-- JSON Intro
-- JSON Syntax
-- JSON vs XML
-- JSON Data Types
-- JSON Parse
-- JSON Stringify
-- JSON Objects
-- JSON Arrays
-- JSON Server
-- JSON PHP
-- JSON HTML
-- JSON JSONP
+#### Week 4:
+- [ ] **Days 23-25:** Arrays, Array Methods, Array Search
+- [ ] **Days 26-27:** Array Sort, Array Iteration, Array Const
+- [ ] **Days 28-30:** Dates, Date Formats, Date Get Methods, Date Set Methods
 
-## JS vs jQuery
-- jQuery Selectors
-- jQuery HTML
-- jQuery CSS
-- jQuery DOM
+### **Month 5: JavaScript Roadmap (contd.)**
 
-## JS Graphics
-- JS Canvas
-- JS Plotly
-- JS Chart.js
-- JS Google Chart
-- JS D3.js
+#### Week 1:
+- [ ] **Days 1-3:** Math, Random, Booleans
+- [ ] **Days 4-6:** Comparisons, If Else, Switch
+- [ ] **Day 7:** Loop For
 
-**Happy coding! 🚀**
+#### Week 2:
+- [ ] **Days 8-10:** Loop For In, Loop For Of
+- [ ] **Days 11-13:** Loop While, Break, Iterables
+- [ ] **Days 14-16:** Sets, Maps, Typeof
+
+#### Week 3:
+- [ ] **Days 17-19:** Type Conversion, Bitwise, RegExp
+- [ ] **Days 20-22:** Precedence, Errors, Scope
+- [ ] **Days 23-25:** Hoisting, Strict Mode, this Keyword
+
+#### Week 4:
+- [ ] **Days 26-28:** Arrow Function, Classes, Modules
+- [ ] **Days 29-30:** JSON, Debugging, Style Guide
+
+### **Month 6: JavaScript Advanced, Versions, Objects, Functions, Classes**
+
+#### Week 1:
+- [ ] **Days 1-3:** Advanced Concepts (Best Practices, Mistakes, Performance)
+- [ ] **Days 4-6:** Reserved Words, JS Versions (2009 - 2023)
+- [ ] **Day 7:** IE / Edge, JS History
+
+#### Week 2:
+- [ ] **Days 8-10:** Object Definitions, Properties, Methods
+- [ ] **Days 11-13:** Display, Accessors, Constructors
+- [ ] **Days 14-16:** Prototypes, Iterables, Sets, Maps
+
+#### Week 3:
+- [ ] **Days 17-19:** Reference, Function Definitions, Parameters
+- [ ] **Days 20-22:** Invocation, Call, Apply, Bind, Closures
+- [ ] **Day 23:** Class Intro, Inheritance
+
+#### Week 4:
+- [ ] **Days 24-26:** Class Static, Async (Callbacks, Asynchronous)
+- [ ] **Days 27-28:** Promises, Async/Await
+- [ ] **Days 29-30:** HTML DOM (Intro, Methods, Document)
+
+### **Month 7: JavaScript DOM, Browser BOM, Web APIs**
+
+#### Week 1:
+- [ ] **Days 1-3:** Elements, HTML, Forms
+- [ ] **Days 4-6:** CSS, Animations, Events
+- [ ] **Days 7-9:** Event Listener, Navigation, Nodes
+
+#### Week 2:
+- [ ] **Days 10-12:** Collections, Node Lists, Browser BOM (Window, Screen)
+- [ ] **Days 13-15:** Location, History, Navigator
+- [ ] **Days 16-18:** Popup Alert, Timing, Cookies
+
+#### Week 3:
+- [ ] **Days 19-21:** Web API Intro, Forms, History
+- [ ] **Days 22-24:** Storage, Worker, Fetch
+- [ ] **Days 25-27:** Geolocation, AJAX Intro, XMLHttp
+
+#### Week 4:
+- [ ] **Days 28-29:** AJAX Request, Response, XML File
+- [ ] **Day 30:** AJAX PHP, ASP, Database, Applications, Examples
+
+### **Month 8: JavaScript JSON, jQuery, Graphics**
+
+#### Week 1:
+- [ ] **Days 1-3:** JSON Intro, Syntax, vs XML
+- [ ] **Days 4-6:** Data Types, Parse, Stringify
+- [ ] **Day 7:** Objects, Arrays, Server
+
+#### Week 2:
+- [ ] **Days 8-10:** PHP, HTML, JSON/JSONP
+- [ ] **Days 11-13:** vs jQuery, Selectors
+- [ ] **Days 14-16:** HTML, CSS, DOM
+
+#### Week 3:
+- [ ] **Days 17-19:** Graphics Intro, Canvas
+- [ ] **Days 20-22:** Plotly, Chart.js, Google Chart
+- [ ] **Days 23-25:** D3.js
+
+#### Week 4:
+- [ ] **Days 26-28:** Review and Practice
+- [ ] **Days 29-30:** Finalize and Document Learnings
+
+---
+
+**Happy coding and learning! 🚀**
